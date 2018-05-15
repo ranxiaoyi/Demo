@@ -1,0 +1,1 @@
+Record Mongodb infomation.

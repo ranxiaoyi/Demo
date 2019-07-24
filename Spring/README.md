@@ -1,4 +1,5 @@
 #二分法查找，如果数组中有多个相同的值，按照leftOrRight参数来判断返回最左还是最右的
+# aaa
 private static int binarySearch(int[] arr, int key, boolean leftOrRight) {
         int low = 0;
         int high = arr.length - 1;
